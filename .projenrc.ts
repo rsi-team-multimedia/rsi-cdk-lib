@@ -9,7 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   jsiiVersion: '~5.4.0',
   name: 'rsi-cdk-lib',
   projenrcTs: true,
-  repositoryUrl: 'https://github.com/roberto.trapletti/rsi-cdk-lib.git',
+  repositoryUrl: 'https://github.com/rsi-team-multimedia/rsi-cdk-lib.git',
   releaseToNpm: true,
   npmTokenSecret: 'NPM_TOKEN',
   npmAccess: NpmAccess.PUBLIC,
